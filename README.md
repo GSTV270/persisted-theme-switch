@@ -16,7 +16,7 @@ This application consists is a proof of concept of a react project implementatio
 
 ## Instructions
 
-# with npm
+### with npm
 ```sh
 npm install
 ```
@@ -26,7 +26,7 @@ and
 npm start
 ```
 
-# with yarn
+### with yarn
 ```sh
 yarn
 ```
