@@ -1,5 +1,7 @@
 # Persisted theme switch
 
+![Example](https://raw.githubusercontent.com/GSTV270/persisted-theme-switch-template/master/example.gif)
+
 This application consists is a proof of concept of a react project implementation with a switch button that changes the theme of the application, and this theme selection persists reloads.
 
 ## Demo
@@ -14,6 +16,7 @@ This application consists is a proof of concept of a react project implementatio
 
 ## Instructions
 
+# with npm
 ```sh
 npm install
 ```
@@ -23,8 +26,7 @@ and
 npm start
 ```
 
-or if you are using yarn
-
+# with yarn
 ```sh
 yarn
 ```
