@@ -3,7 +3,7 @@
 This application consists is a proof of concept of a react project implementation with a switch button that changes the theme of the application, and this theme selection persists reloads.
 
 ## Demo
-[persisted-theme-swith](https://nostalgic-elion-564b2c.netlify.com/)
+[persisted-theme-swith](https://persisted-theme-switch.netlify.app/)
 
 ## Built with
 * [ReactJS](https://github.com/facebook/react)
